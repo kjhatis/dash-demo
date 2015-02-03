@@ -1,0 +1,11 @@
+{
+  "firebase": "dash-demo",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**",
+    "**/KAdmin-Light/**"
+    
+  ]
+}
